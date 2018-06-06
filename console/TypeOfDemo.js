@@ -1,0 +1,10 @@
+console.log(typeof(10 > 2));
+console.log(typeof("text"));
+console.log(typeof(5));
+console.log(typeof("a"+"b"));
+var a;
+console.log(typeof(a));
+console.log(typeof(2+"2"));
+a = null;
+console.log(typeof(a));
+console.log(typeof(null));
